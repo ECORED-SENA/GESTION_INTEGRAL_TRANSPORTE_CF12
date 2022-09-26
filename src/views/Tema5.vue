@@ -126,10 +126,112 @@
     Separador
     #t_5_4.titulo-segundo.color-acento-contenido
       h2 5.4	Mejora en la logística del transporte
+    
+    p.mb-4 Para determinar las acciones de mejora que se requieren en los procesos logísticos, es indispensable el diagnóstico de la operación, lo que corresponde a conocer cómo se desarrolla todo el proceso y los pormenores que se presentan en cada etapa; así se definen las acciones que se pueden desarrollar para optimizar los recursos.
+
+    .row.justify-content-center.align-items-center.mb-lg-5.mb-3
+      .col-lg-12.col-12.px-lg-5.px-0
+        .row.justify-content-center.mb-0
+          .col-lg-4.col-12.d-flex
+            .TFcontainer.mb-0.p-0
+              img.TFimage(src='@/assets/curso/tema5/img11.png')
+              .TFoverlay.d-flex.align-items-center
+                .p-3
+                  img.mb-4(style="width:102px" src='@/assets/curso/tema5/img16.svg')
+                  p.mb-0 Importante la implementación de estrategias 5´s de orden y limpieza en el puesto de trabajo: Subordinar, clasificar y descartar; sistematizar y ordenar; sanear y limpiar; simplificar, estandarizar y volver coherente; sostener el proceso y disciplinar.  Con esto se mejoran los procesos y se comprometen todos los actores de la cadena de suministro, al tener claros los procesos, todo funciona sincrónicamente. 
+          .col-lg-4.col-12.d-flex
+            .TFcontainer.mb-0.p-0
+              img.TFimage(src='@/assets/curso/tema5/img12.png')
+              .TFoverlay.d-flex.align-items-center
+                .p-3
+                  img.mb-4(style="width:103px" src='@/assets/curso/tema5/img17.svg')
+                  p.mb-0 Implementar, controlar y verificar los modelos de ruteo implementados para mejorar la administración de los recursos: humanos, equipos y espacios. 
+          .col-lg-4.col-12.d-flex
+            .TFcontainer.mb-0.p-0
+              img.TFimage(src='@/assets/curso/tema5/img13.png')
+              .TFoverlay.d-flex.align-items-center
+                .p-3
+                  img.mb-4(style="width:102px" src='@/assets/curso/tema5/img18.svg')
+                  p.mb-0 Seguimiento de calidad a los procesos: diligenciamiento, control y verificación del cumplimiento en cada proceso, mediante los formatos e implementación de herramientas que faciliten su diligenciamiento.
+
+    .row.justify-content-center.align-items-center.mb-0
+      .col-lg-12.col-12.px-lg-5.px-0
+        .row.justify-content-center.mb-0
+          .col-lg-4.col-12.d-flex
+            .TFcontainer.mb-0.p-0
+              img.TFimage(src='@/assets/curso/tema5/img14.png')
+              .TFoverlay.d-flex.align-items-center
+                .p-3
+                  img.mb-4(style="width:102px" src='@/assets/curso/tema5/img19.svg')
+                  p.mb-0 Implementación de procesos de simulación que permitan comprobar las acciones de mejora que se proyecta implementar.  
+          .col-lg-4.col-12.d-flex
+            .TFcontainer.mb-0.p-0
+              img.TFimage(src='@/assets/curso/tema5/img15.png')
+              .TFoverlay.d-flex.align-items-center
+                .p-3
+                  img.mb-4(style="width:102px" src='@/assets/curso/tema5/img20.svg')
+                  p.mb-0 Implementar metodologías de clasificación de inventarios y políticas de almacenamiento, para reducir costos y tiempo, como “Lay out”: es un esquema que resume y señala la distribución y forma de los elementos dentro de una propuesta.
+
+
 
     Separador
     #t_5_5.titulo-segundo.color-acento-contenido
       h2 5.5	Mejora en servicio y atención al cliente 	
+
+    p.mb-4 Para mejorar el servicio al cliente, una vez realizada la gestión necesaria para conocer su opinión y determinar, a través de los informes, el estado del servicio y los puntos donde se requiere la implementación de una mejora o propuesta, teniendo en cuenta que la experiencia de algunos empresarios está en desarrollar acciones como:
+
+    .row.justify-content-center.align-items-center.mb-0
+      .col-lg-5.col-10
+        img.mb-lg-0.mb-3(src='@/assets/curso/tema5/img21.png')
+      .col-lg-7.col-12
+
+        div.px-4.mb-3 
+          div.p-0(style="border-top:2px solid #B7BDC6")
+
+        div.d-flex.align-items-center.mb-3
+          div.p-0
+            img.mb-0(style="min-width:60px; width:60px" src="@/assets/curso/tema5/img22.svg")
+          div.px-3            
+            p.mb-0 Invertir en procesos de formación al personal, no solo a quienes están directamente involucrados con los clientes, sino a los que hacen parte de los procesos; es importante destacar la misión y generar pasión en su equipo de trabajo por hacer las cosas de la mejor manera. 
+
+        div.px-4.mb-3 
+          div.p-0(style="border-top:2px solid #B7BDC6")
+
+        div.d-flex.align-items-center.mb-3
+          div.p-0
+            img.mb-0(style="min-width:60px; width:60px" src="@/assets/curso/tema5/img23.svg")
+          div.px-3            
+            p.mb-0 Conocer y crear los perfiles de los clientes.
+
+        div.px-4.mb-3 
+          div.p-0(style="border-top:2px solid #B7BDC6")
+
+        div.d-flex.align-items-center.mb-3
+          div.p-0
+            img.mb-0(style="min-width:60px; width:60px" src="@/assets/curso/tema5/img24.svg")
+          div.px-3            
+            p.mb-0 Determinar las necesidades de forma clara y coherente para presentar soluciones personalizadas de ser necesario. 
+
+        div.px-4.mb-3 
+          div.p-0(style="border-top:2px solid #B7BDC6")
+
+        div.d-flex.align-items-center.mb-3
+          div.p-0
+            img.mb-0(style="min-width:60px; width:60px" src="@/assets/curso/tema5/img25.svg")
+          div.px-3            
+            p.mb-0 Definir los acuerdos de nivel de servicio: acuerdo entre el cliente y el empresario, donde se especifican las condiciones de la entrega. 
+
+        div.px-4.mb-3 
+          div.p-0(style="border-top:2px solid #B7BDC6")
+
+        div.d-flex.align-items-center.mb-3
+          div.p-0
+            img.mb-0(style="min-width:60px; width:60px" src="@/assets/curso/tema5/img26.svg")
+          div.px-3            
+            p.mb-0 Automatizar los procesos para mejorar la administración de la información con las respectivas capacitaciones al personal, para que el diligenciamiento y la veracidad cumplan con los requisitos mínimos y sea confiable. 
+
+        div.px-4.mb-3 
+          div.p-0(style="border-top:2px solid #B7BDC6")
 </template>
 
 <script>
