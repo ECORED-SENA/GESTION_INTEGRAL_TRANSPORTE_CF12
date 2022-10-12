@@ -170,7 +170,7 @@
               .TFoverlay.d-flex.align-items-center
                 .p-3
                   img.mb-4(style="width:102px" src='@/assets/curso/tema5/img20.svg')
-                  p.mb-0 Implementar metodologías de clasificación de inventarios y políticas de almacenamiento, para reducir costos y tiempo, como “Lay out”: es un esquema que resume y señala la distribución y forma de los elementos dentro de una propuesta.
+                  p.mb-0 Implementar metodologías de clasificación de inventarios y políticas de almacenamiento, para reducir costos y tiempo, como “<i>Lay out</i>”: es un esquema que resume y señala la distribución y forma de los elementos dentro de una propuesta.
 
 
 

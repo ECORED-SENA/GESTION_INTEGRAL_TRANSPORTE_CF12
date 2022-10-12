@@ -93,7 +93,7 @@
             | Eficacia 
           li 
             i.fas.fa-angle-right(style="color:#FF6D4B")
-            | Eficiencia para la competitividad. 
+            | Eficiencia para la competitividad
         
         p.mb-lg-0.mb-3 La calidad en la gestión logística y el transporte está relacionada desde la planificación hasta el proceso de la gestión en la cadena de suministro.
       .col-lg-6.col-10
@@ -229,7 +229,7 @@
         .row.justify-content-center
           .col-lg-6.col-12      
             h4.mb-4 Impacto tecnológico
-            p.mb-0 La implementación de nuevas tecnologías que busquen esa integridad con el medio ambiente, utilizando vehículos más amigables con el medio ambiente, que reduzcan el impacto ambiental, es un puntaje muy positivo a las empresas. Además, con la implementación de las vías ITS (Intelligent transport systems – Sistemas inteligentes de transporte) que adelanta el INVIAS en Colombia, se requiere que la actualización de los vehículos facilite sus fines de administración de información, seguridad nacional en carreteras y control de velocidades para disminución de accidentalidad vial.
+            p.mb-0 La implementación de nuevas tecnologías que busquen esa integridad con el medio ambiente, utilizando vehículos más amigables con el medio ambiente, que reduzcan el impacto ambiental, es un puntaje muy positivo a las empresas. Además, con la implementación de las vías ITS (<i>gent transport systems</i> – Sistemas inteligentes de transporte) que adelanta el INVIAS en Colombia, se requiere que la actualización de los vehículos facilite sus fines de administración de información, seguridad nacional en carreteras y control de velocidades para disminución de accidentalidad vial.
           .col-lg-6.col-10   
             img.mb-lg-0.mb-3(src="@/assets/curso/tema2/img26.png")
       .py-4.py-md-5(titulo="Impacto económico" :icono="require('@/assets/curso/tema2/img23.svg')")

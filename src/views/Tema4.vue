@@ -48,7 +48,7 @@
             | ¿Qué variables considerar en la evaluación o atributos?
           li 
             i.fas.fa-angle-right(style="color:#FF6D4B")
-            | ¿Qué rango evaluar? Es decir, el tamaño del modelo. Ej. Gestión documental: 10 oficinas que manejan documentación. Elegir 2
+            | ¿Qué rango evaluar? Es decir, el tamaño del modelo. Ej. Gestión documental: 10 oficinas que manejan documentación. Elegir 2.
           li 
             i.fas.fa-angle-right(style="color:#FF6D4B")
             | ¿Con qué frecuencia evaluar? Definir periodos, primer semestre, anual, mensual, depende de las problemáticas que se encuentren.
@@ -194,7 +194,7 @@
           td Evidencia o configura algún delito; se traslada a fiscalía para que continúen con la investigación.
         tr
           td.br.text-center Disciplinarios
-          td Identifica un mal proceder de algún funcionario y debe remitirse a la procuraduría para que continúen con la investigación
+          td Identifica un mal proceder de algún funcionario y debe remitirse a la procuraduría para que continúen con la investigación.
 
     p.mb-0 Una vez obtenido el informe preliminar, se puede objetar con el respectivo soporte de corrección y, si el ente de control lo considera, puede retractarse por falta de información, si no, deberá continuar el proceso.     
     
