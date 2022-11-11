@@ -8,10 +8,10 @@
         span 5
       h1 Planes de mejoramiento 
 
-    img.mb-4(src="@/assets/curso/tema5/img01.png")
+    img.mb-4(src="@/assets/curso/tema5/img01.png" data-aos="fade-left")
     p.mb-2 Los planes de mejoramiento son instrumentos con los cuales las entidades u organizaciones pueden organizar, presentar y planear las acciones o estrategias con las cuales se pretende levantar o solventar las inconformidades encontradas en los controles mencionados en el punto 4 del presente componente. 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-4.col-10
         img.mb-lg-0.mb-3(src="@/assets/curso/tema5/img02.png")
       .col-lg-8.col-12
@@ -56,7 +56,7 @@
     #t_5_1.titulo-segundo.color-acento-contenido
       h2 5.1	Acciones de mejora en la operación
 
-    .row.justify-content-center.align-items-center.mb-0
+    .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
       .col-lg-4.col-10
         img.mb-lg-0.mb-3(src="@/assets/curso/tema5/img03.png")
       .col-lg-8.col-10
@@ -84,7 +84,7 @@
     #t_5_2.titulo-segundo.color-acento-contenido
       h2 5.2	Disminución de costos en la operación
 
-    img.mb-4(src="@/assets/curso/tema5/img04.png")
+    img.mb-4(src="@/assets/curso/tema5/img04.png" data-aos="fade-right")
 
     p.mb-0 En gran medida, los costos de operación de los vehículos se ven incrementados a causa de varios aspectos que deben ser cuidadosamente controlados por el área encargada de la operación, y se relacionan con:
 
@@ -92,7 +92,7 @@
     #t_5_3.titulo-segundo.color-acento-contenido
       h2 5.3	Mejora en procesos de distribución
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
       .col-lg-6.col-12
         p.mb-4 Para analizar las acciones de mejora en los problemas que puedan surgir con la distribución de mercancías, es pertinente separar la distribución urbana y la rural, ya que la mayor cantidad de problemas se desarrollan por la interacción con otros usuarios en las vías.  Cada día hay más problemas en la planificación de las ciudades por la mayor densidad poblacional y la misma capacidad vial, enfrentando problemas de tráfico y contaminación.
         p.mb-lg-0.mb-3 Dentro de este aspecto, influyen conocimientos de la investigación de operaciones, que no es más que la disciplina mediante la cual se emplean herramientas donde, de forma analítica, se entiende la dinámica de la operación, para así conocer al detalle los aspectos que la componen y cómo se pueden optimizar los recursos para lograr los objetivos a menor costo y con mayor eficiencia. 
@@ -101,7 +101,7 @@
 
     p.mb-4 Una gran fuente de información para rastrear los problemas son las quejas de los clientes y el análisis de costos minucioso; estas son algunas acciones de mejora que se pueden implementar:
 
-    SlyderF.mb-0(columnas="col-12 col-lg-4" data-aos="fade-left")
+    SlyderF.mb-0(columnas="col-12 col-lg-4" data-aos="fade-right")
       .tarjeta.tarjeta1.p-4.px-5
         div.justify-content-center.d-flex.mb-5
           img(style="width: 118px" src='@/assets/curso/tema5/img06.svg')        
@@ -129,7 +129,7 @@
     
     p.mb-4 Para determinar las acciones de mejora que se requieren en los procesos logísticos, es indispensable el diagnóstico de la operación, lo que corresponde a conocer cómo se desarrolla todo el proceso y los pormenores que se presentan en cada etapa; así se definen las acciones que se pueden desarrollar para optimizar los recursos.
 
-    .row.justify-content-center.align-items-center.mb-lg-5.mb-3
+    .row.justify-content-center.align-items-center.mb-lg-5.mb-3(data-aos="fade-left")
       .col-lg-12.col-12.px-lg-5.px-0
         .row.justify-content-center.mb-0
           .col-lg-4.col-12.d-flex
@@ -154,7 +154,7 @@
                   img.mb-4(style="width:102px" src='@/assets/curso/tema5/img18.svg')
                   p.mb-0 Seguimiento de calidad a los procesos: diligenciamiento, control y verificación del cumplimiento en cada proceso, mediante los formatos e implementación de herramientas que faciliten su diligenciamiento.
 
-    .row.justify-content-center.align-items-center.mb-0
+    .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
       .col-lg-12.col-12.px-lg-5.px-0
         .row.justify-content-center.mb-0
           .col-lg-4.col-12.d-flex
@@ -180,7 +180,7 @@
 
     p.mb-4 Para mejorar el servicio al cliente, una vez realizada la gestión necesaria para conocer su opinión y determinar, a través de los informes, el estado del servicio y los puntos donde se requiere la implementación de una mejora o propuesta, teniendo en cuenta que la experiencia de algunos empresarios está en desarrollar acciones como:
 
-    .row.justify-content-center.align-items-center.mb-0
+    .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
       .col-lg-5.col-10
         img.mb-lg-0.mb-3(src='@/assets/curso/tema5/img21.png')
       .col-lg-7.col-12

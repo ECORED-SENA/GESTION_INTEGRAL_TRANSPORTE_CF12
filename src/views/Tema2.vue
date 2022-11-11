@@ -8,14 +8,14 @@
         span 2
       h1 Fundamentos del servicio al cliente en una empresa de transporte
 
-    .row.justify-content-center.d-flex.align-items-center.mb-5
+    .row.justify-content-center.d-flex.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-7.col-12
         p.mb-4 El servicio al cliente, como se ha mencionado anteriormente, es una de las estrategias que ha tomado fuerza en los últimos años, porque se ha logrado determinar que, al establecer y entender la relación entre el cliente o usuario final y las organizaciones o empresas, es posible dinamizar el mejoramiento del servicio y entrar a competir con nuevas tecnologías e innovaciones, ya que estos son dinámicos o cambiantes en el tiempo.
         p.mb-lg-0.mb-3 El servicio al cliente, en conclusión, es el conjunto de tácticas que desarrolla la organización o empresa para mejorar el logro de su objetivo misional, por esta razón, se ha convertido en una “cultura del servicio con calidad”, es decir que, así como los demás procesos que intervienen para la operación de la organización, de producción, documentación, logística y transporte, talento humano, hace parte de los procesos de la gestión de la calidad, entrando en el ciclo <b>PHVA</b> (Planificar, Hacer, Verificar y Actuar), para que la información y demás aspectos que lo componen alimenten esa mejora continua que se espera sea constante en la organización, evaluando las estrategias implementadas para la comercialización y demás involucradas en el servicio y detectar los errores, aciertos de los procesos y las acciones de mejora.
       .col-lg-5.col-10
         img.mb-0( src="@/assets/curso/tema2/img01.png")
 
-    .row.justify-content-center.align-items-center.mb-0
+    .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
       .col-lg-10.col-12.py-3(style="background-color:#fff8ed; border-left: 9px solid #FFBA5B")
         .row.justify-content-center.align-items-center
           .col-lg-2.col-6.d-flex.justify-content-center
@@ -41,7 +41,7 @@
     p.mb-4 Para poder establecer los indicadores de calidad, primero se debe profundizar en los aspectos relacionados con la misma definición de lo que significa la calidad en los procesos empresariales, ya que se puede concluir que la calidad en el servicio ofrecido por el personal comprometido y capacitado demuestra a sus clientes un interés por el servicio, reflejando un manejo con respuestas claras a sus clientes, mejorando la satisfacción, fidelización y, por ende, mejor rentabilidad, lo que beneficia a toda la organización.
     p.mb-5 Identificar o perfilar a los clientes es fundamental porque:
 
-    .row.justify-content-center.align-items-center.mb-lg-5.mb-3
+    .row.justify-content-center.align-items-center.mb-lg-5.mb-3(data-aos="fade-left")
       .col-lg-12.col-12.px-lg-5.px-0
         .row.justify-content-center.mb-0
           .col-lg-4.col-12.d-flex
@@ -63,7 +63,7 @@
               h4.text-center.mb-4 <i>Gustos y preferencias</i>
               p.mb-0.text-center Se determinan <b>los gustos y preferencias</b>; este aspecto permite organizar a los clientes por rangos, para entender tendencias de los mercados y así crear nuevas estrategias que fortalezcan a la empresa. 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12.col-12.px-lg-5.px-0
         .row.justify-content-center.mb-0
           .col-lg-4.col-12.d-flex
@@ -79,7 +79,7 @@
               h4.text-center.mb-4 <i>Quién</i>
               p.mb-0.text-center Se logra definir <b>quién</b> es el cliente: lo que permite clasificarlo, identificar qué otros servicios se le puede ofertar y abrir el espacio para la fidelización.
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-6.col-12
         p.mb-4 En resumen, la calidad percibida por los clientes depende de un análisis muy completo de su perfil, de sus necesidades y lo que se ofrece. Entendiendo esto, se puede profundizar en la validación de la calidad en los procesos de las empresas del transporte.
         p.mb-3 <b>Los indicadores de calidad estarán enmarcados en los siguientes aspectos: </b>
@@ -99,14 +99,14 @@
       .col-lg-6.col-10
         img(src="@/assets/curso/tema2/img08.png")
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-3.col-10
         img.mb-lg-0.mb-3(src="@/assets/curso/tema2/img09.png")
       .col-lg-9.col-12
         p.mb-4 Los indicadores de calidad no solo se destinan para evaluar la calidad de los productos o servicios al final, basándose en los estándares establecidos en manuales de calidad de la organización que fundamentan las políticas, sino que deben estar formulados bajo estándares internacionales de calidad; por tal razón, es indispensable el conocimiento e implementación de la norma ISO 9001, ya que, a través de la propuesta que se realiza, se consideran los aspectos relacionados a operaciones, procesos y actividades implicados en la cadena de suministro de forma integral. Hacer partícipes a las empresas dentro de este esquema les permite fortalecer sus servicios y competitividad para competir a nivel internacional. 
         p.mb-0 Todos los procesos relacionados con la prestación del servicio hacen parte de la cadena logística, por lo tanto, al incluir la estrategia de control de calidad bajo la normativa, se pueden establecer los siguientes indicadores que son imprescindibles, estos se pueden homologar a cualquier servicio de transporte.  Seguramente, darán origen a otros que particularicen algunos aspectos especiales de los distintos servicios, pero que pueden considerarse de forma general.
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-8.col-12
         AcordionA.mb-lg-0.mb-3(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row.justify-content-end(titulo="Relación costo/beneficio")  
@@ -132,7 +132,7 @@
       .col-lg-4.col-10
         img.mb-0(src="@/assets/curso/tema2/img10.png")
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-lg-3.col-12.d-flex
         .tarjeta2.w-100.py-5.px-4.mb-lg-0.mb-3
           .p-0.mb-5
@@ -160,12 +160,12 @@
 
     p.mb-45 Los indicadores en el transporte contribuyen en la medición no solo de rendimientos de los vehículos, sino también de los demás actores de la cadena logística para determinar fortalezas y debilidades en la operación.
     
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10.col-12
         img(src="@/assets/curso/tema2/img16.svg")
         figcaption Nota. Tomada de Mecalux (2019).
 
-    .row.justify-content-center.align-items-center.mb-0
+    .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
       .col-lg-10.col-12.py-3(style="background-color:#edebf4; border-left: 9px solid #483876")
         .row.justify-content-center.align-items-center
           .col-lg-2.col-6.d-flex.justify-content-center
@@ -188,13 +188,13 @@
     #t_2_2.titulo-segundo.color-acento-contenido
       h2 2.2	Política de infraestructura y medio ambiente
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-6.col-10
         img.mb-lg-0.mb-3(src="@/assets/curso/tema2/img18.png")
       .col-lg-6.col-12
         p.mb-0 La infraestructura y su relación con el medio ambiente corresponde a la implementación de lineamientos establecidos por políticas de orden internacional que han incentivado la introducción de conceptos como la sostenibilidad ambiental, que juegan un papel importante para el progreso de los países en el orden económico y productivo, proyectando la necesidad de incluirlos dentro de las organizaciones que quieren entrar a competir.  Se reconoce entonces como un punto a su favor muy alto, siempre y cuando esté bien direccionada, enfocada e implementada por sus actores.
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-3.col-10
         img.mb-lg-0.mb-3(src="@/assets/curso/tema2/img19.png")
       .col-lg-9.col-12
@@ -210,7 +210,7 @@
 
     p.mb-5 Hay que tener en cuenta que el medio ambiente se puede ver afectado en varias situaciones que generan problemáticas cuantitativas y cualitativas, como:
     
-    TabsB.color-acento-contenido.mb-5
+    TabsB.color-acento-contenido.mb-5(data-aos="fade-left")
       .py-4.py-md-5(titulo="Impacto social" :icono="require('@/assets/curso/tema2/img20.svg')")
         .row.justify-content-center
           .col-lg-6.col-12      
@@ -243,7 +243,7 @@
     p.mb-4 No se puede perder de vista que todos estos ítems son cualitativos o cuantitativos y, por el hecho de ser medibles, arrojan cifras que se vuelven indicadores. 
     p.mb-5 Políticas como la implementación del Plan Estratégico de Seguridad Vial (PESV) están encaminadas a propender porque las empresas que tienen parque automotor controlen y vigilen los aspectos que dan origen a las problemáticas que influyen en la accidentalidad vial; allí se encuentran contenidas algunas acciones que hacen parte de los indicadores mencionados.
     
-    .row.justify-content-center.align-items-center.mb-0
+    .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
       .col-lg-10.col-12.py-3(style="background-color:#fff8ed; border-left: 9px solid #FFBA5B")
         .row.justify-content-center.align-items-center
           .col-lg-2.col-6.d-flex.justify-content-center
@@ -267,7 +267,7 @@
     p.mb-4 Los indicadores del servicio al cliente están relacionados con el seguimiento que se debe realizar a la medida o nivel de satisfacción del cliente, como se ha profundizado en el numeral 1 del presente documento. Una vez implementados los procesos de medición y seleccionados los tipos más convenientes para la actividad económica de operación de la empresa, se reflejan en los informes de gestión los indicadores que corresponden a esa medida final del servicio al cliente.
     p.mb-4 Para las empresas de transporte y logística, se reconocen algunos indicadores usados para el servicio al cliente, los cuales se clasifican en cuatro grandes grupos:
 
-    .row.justify-content-center.mb-0
+    .row.justify-content-center.mb-5(data-aos="fade-left")
       .col-lg-3.col-12.d-flex
         .tarjeta3.py-5.px-3(style="background-color: #ffe5a6")
           div.d-flex.justify-content-center.mb-4
@@ -293,7 +293,28 @@
           h4.text-center.mb-4 Confiabilidad 
           p.text-center.mb-0 Cumplimientos de tiempo pactados, uso de tecnologías de información, trazabilidad de envíos, accidentalidad.  
 
-
+    
+    .row.justify-content-center.mb-0.fondo100(data-aos="fade-right")
+      .col-lg-6.p-0                
+        div.position-relative.p-0
+          img.invisible(style="top:-0px;" src="@/assets/curso/tema2/img33.png")
+          img.position-absolute(style="bottom:0%; height: 103.5%"  src="@/assets/curso/tema2/img33.png")
+      .col-lg-6.d-flex.align-items-center(style="background-color:")
+        .p-4          
+          p.mb-4 A continuación, se encuentran algunos ejemplos de estos indicadores:
+          ul.lista-ul--color
+            li 
+              i.fas.fa-angle-right(style="color:#5B4794")
+              | Porcentaje de personal capacitado en servicio al cliente.
+            li 
+              i.fas.fa-angle-right(style="color:#5B4794")
+              | Porcentaje de clientes inconformes.
+            li 
+              i.fas.fa-angle-right(style="color:#5B4794")
+              | Quejas y reclamos.
+            li 
+              i.fas.fa-angle-right(style="color:#5B4794")
+              | Porcentaje de clientes por fidelización. 
 </template>
 
 <script>

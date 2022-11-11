@@ -8,13 +8,13 @@
         span 4
       h1 Técnicas de verificación
 
-    .row.justify-content-center.d-flex.align-items-center.mb-4
+    .row.justify-content-center.d-flex.align-items-center.mb-4(data-aos="fade-left")
       .col-lg-6.col-10
         img.mb-lg-0.mb-3( src="@/assets/curso/tema4/img01.png")
       .col-lg-6.col-12
         p.mb-0 Las técnicas de verificación de los servicios se refieren a la implementación de estrategias que permitan el control de la calidad de los servicios, bajo un proceso o procedimiento basado en lineamientos establecidos por las normas relacionadas. Como el transporte se configura como un servicio, se profundizará en este aspecto y no en técnicas de verificación de productos, que, aunque en algunos puntos puedan tener similitudes, el alcance es mucho mayor en el servicio porque impacta a más usuarios y sectores productivos del país. 
 
-    .row.justify-content-center.d-flex.align-items-center.mb-5
+    .row.justify-content-center.d-flex.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-4.col-10
         img.mb-lg-0.mb-3( src="@/assets/curso/tema4/img02.png")
       .col-lg-8.col-10
@@ -31,12 +31,12 @@
     
     p.mb-5 Lo anterior es lo que genera que la verificación no sea tan sencilla como se quisiera, porque es imposible evitar que el cliente no presencie, viva o sienta inconformismo por el servicio. Lo importante de estas técnicas es tratar de disminuir los riesgos que se puedan ocasionar con las problemáticas estudiadas; para esto, se propone separar los elementos que intervienen en el servicio para que se puedan controlar de forma individual.
 
-    .row.justify-content-center.d-flex.align-items-center.mb-5
+    .row.justify-content-center.d-flex.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10.col-12
         img.mb-0( src="@/assets/curso/tema4/img03.svg")
         figcaption Nota: Elementos a tener en cuenta en la verificación
 
-    .row.justify-content-center.d-flex.align-items-center.mb-5
+    .row.justify-content-center.d-flex.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-6.col-12
         p.mb-4 Para poder verificar a través de un sistema de inspección, es indispensable establecer las variables parametrizadas de:
         ul.lista-ul--color
@@ -63,7 +63,7 @@
     #t_4_1.titulo-segundo.color-acento-contenido
       h2 4.1	Informes de gestión
 
-    .row.justify-content-center.d-flex.align-items-center.mb-5
+    .row.justify-content-center.d-flex.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10.col-12
         .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5(style="background-color: #ffeed6")
           .bloque-texto-g__img(
@@ -75,7 +75,7 @@
     p.mb-5 Además de demostrar los logros, se deben reflejar todas aquellas vicisitudes o retos que se enfrentaron, debe haber algún registro de la experiencia obtenida y presentarla para que los directivos puedan solucionar los conflictos o inconformidades que hayan surgido en el periodo del informe si se sale de la discrecionalidad de quien lo presenta, es decir, porque incluye decisiones que se salen de sus capacidades en la toma de decisiones, ya sea porque impacta económicamente a la organización o jurídicamente. 
     p.mb-4 Dentro del informe de gestión se encuentran elementos de tipo: 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-8.col-12
         AcordionA.mb-lg-0.mb-3(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row.justify-content-end(titulo="Financiero")
@@ -92,7 +92,7 @@
 
     p.mb-4 La ruta que se recomienda a la hora de formular un informe de gestión comprende los siguientes pasos:
     
-    TabsA.color-acento-contenido.mb-5    
+    TabsA.color-acento-contenido.mb-5(data-aos="fade-left")   
       .tarjeta.p-4(style="background-color: #e6e2ee" titulo="Paso 1")
         .row.justify-content-center.mb-0
           .col-lg-5.col-10
@@ -122,7 +122,7 @@
             h4 Paso 4
             p.mb-0 Presentar la información de forma adecuada. Algunas entidades u organizaciones manejan formatos. Es importante conocer a fondo el sistema integrado de gestión de la organización y acoger los formatos. Algunos directivos prefieren algo ejecutivo, sencillo y conciso, con tablas, figuras, gráficos. Se recomienda que conozca las preferencias de la presentación de sus jefes directos para evitar llamados de atención por inadecuada presentación.
 
-    .row.justify-content-center.align-items-center.mb-0
+    .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
       .col-lg-10.col-12.py-3(style="background-color:#ffefec; border-left: 9px solid #FF6D4B")
         .row.justify-content-center.align-items-center
           .col-lg-2.col-6.d-flex.justify-content-center
@@ -146,7 +146,7 @@
     #t_4_2.titulo-segundo.color-acento-contenido
       h2 4.2	Informe de control
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-5.col-10
         img.mb-lg-0.mb-3(src="@/assets/curso/tema4/img11.png")
       .col-lg-7.col-12
@@ -159,7 +159,7 @@
     .titulo-sexto.color-acento-contenido(data-aos="fade-left")
       p.titulo <b>Tabla 3.</b> <i> Características de los hallazgos</i>
 
-    .tabla-b.color-acento-contenido.mb-5            
+    .tabla-b.color-acento-contenido.mb-5(data-aos="fade-right")
       table
         tr
           th(style="background-color: #483876;")
@@ -178,7 +178,7 @@
     
     p.mb-4 De acuerdo con estos elementos, se clasifican en:
 
-    .tabla-b.color-acento-contenido.mb-5            
+    .tabla-b.color-acento-contenido.mb-5(data-aos="fade-left")        
       table
         tr
           th( colspan=2 style="background-color: #483876;")
@@ -205,7 +205,7 @@
     p.mb-4 El informe de desempeño se relaciona con el orden laboral, es decir, la forma como se presenta la información recolectada a partir de las evaluaciones realizadas al talento humano, donde se reflejan o concluyen las condiciones de habilidades de los colaboradores y se evalúa su desempeño.
     p.mb-4 La información que se debe presentar debe ser concisa, cuidadosa y organizada; por lo menos contendrá:
 
-    .row.justify-content-center.align-items-center.mb-lg-5.mb-3
+    .row.justify-content-center.align-items-center.mb-lg-5.mb-3(data-aos="fade-right")
       .col-lg-12.col-12.px-lg-5.px-0
         .row.justify-content-center.mb-0
           .col-lg-4.col-12.d-flex
@@ -230,7 +230,7 @@
                   h4.mb-4.text-center Referencias
                   p.text-center O convenciones de las letras o elementos que requieran descripción, rangos.
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12.col-12.px-lg-5.px-0
         .row.justify-content-center.mb-0
           .col-lg-4.col-12.d-flex

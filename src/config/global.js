@@ -212,132 +212,130 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+        'Arango, M., Ruiz, S., Ortiz, L. y Zapata, J. (2017). Indicadores de desempeño para empresas del sector logístico: Un enfoque desde el transporte de carga terrestre. Ingeniare. Revista chilena de ingeniería, 25(4), p. 707-720.',
+      link: 'https://dx.doi.org/10.4067/S0718-33052017000400707',
+    },
+    {
+      referencia:
+        'Arbeláez, L. y Marín, F. (2012). Sistema de costeo ABC aplicado al transporte de carga. Revista Universidad EAFIT, 37(124), p. 10-20. ',
+    },
+    {
+      referencia:
+        'Baena, J. y García, J. (2002). Transporte internacional. Marge Books. ',
+    },
+    {
+      referencia:
+        'Ballou, R. (2003). Logística empresarial: Administración de la cadena de abastecimiento. Prentice Hall. ',
+    },
+    {
+      referencia:
+        'Chase, R., Jacobs, R. y Aquilano, N. (2009). Administración de la producción y operaciones para una ventaja competitiva. McGraw-Hill. ',
+    },
+    {
+      referencia:
+        'Chopra, S. y Meindl, P. (2008). Administración de la cadena de suministro. Estrategia, planeación y operación. Pearson Education.',
+    },
+    {
+      referencia:
+        'Clavijo, S., Vera, A., Malagón, D., Parga, Á., Joya, S., Ortiz, M. y Ordoñez, L. Costos de transporte, Multimodalismo y la competitividad de Colombia. ANIF.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://www.infraestructura.org.co/nuevapagweb/descargas/Multimodalismo.pdf',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
+        'Dambon, C. (2020). Cómo Hacer un Informe + 55 Ejemplos y Plantillas Editables. Venngage. ',
+      link: 'https://es.venngage.com/blog/plantillas-informe-anual/',
+    },
+    {
+      referencia:
+        'EAE Business School. (2018). Ventajas del manual de calidad ISO 9001. Retos en Supply Chain.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://retos-operaciones-logistica.eae.es/ventajas-del-manual-de-calidad-iso-9001',
     },
     {
       referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'Mecalux. (2019). KPI en logística: así se mide el éxito en la ‘supply chain’.',
+      link: 'https://www.mecalux.com.co/blog/kpi-logistica',
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'QuestionPro. (s. f.). ¿Qué son las preguntas de opción múltiple?',
+      link: 'https://www.questionpro.com/blog/es/preguntas-de-opcion-multiple',
+    },
+    {
+      referencia:
+        'RT en Español. (2018, agosto 6). FUERTES IMÁGENES: Momento exacto de la enorme explosión en Bolonia [Video]. YouTube.',
+      link: 'https://youtu.be/1UPIzChf0Xw',
+    },
+    {
+      referencia:
+        'Villalobos, J. (2010). Seguridad en la operación del transporte de carga carretero. Boletín FAL, 285(5).',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
-    },
-    {
-      referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
-    },
-    {
-      referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
-    },
-    {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://www.cepal.org/es/publicaciones/36077-seguridad-la-operacion-transporte-carga-carretero',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'ACTITUDINAL',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'El término se utiliza para referirse a todo aquello que tiene por objetivo determinar las disposiciones de ánimo manifestadas de algún modo para realizar ciertas actividades, ya sean de tipo educativas, sociales, laborales, etcétera.',
     },
     {
-      termino: '<em>Suftware</em>',
+      termino: 'AUTOMATIZAR',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Implementación de maquinaria en procesos automáticos para la realización de un proceso. Llevar a autómata un proceso que puede ser más eficiente con la ayuda de herramientas.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'CALIDAD',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Capacidad cuantitativa o cualitativa de un objeto para satisfacer las necesidades. Se relaciona con la mejor versión de algo. Servicio de calidad: eficiente para quien lo requiere en todos sus aspectos. ',
     },
     {
-      termino: '<em>Áectores</em>',
-      significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+      termino: 'CARGA FÍSICA',
+      significado: 'Elemento que se requiere movilizar o transportar.',
     },
     {
-      termino: 'Moda',
+      termino: 'DECISIÓN',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'Es el producto final del proceso mental-cognitivo específico de un individuo o un grupo de personas u organizaciones, el cual se denomina toma de decisiones, por lo tanto, es un concepto subjetivo.',
     },
     {
-      termino: 'Diseña',
+      termino: 'NORMA',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Principios o lineamientos que establecen los parámetros o requisitos que necesita un proceso, producto, procedimiento o comportamiento.',
     },
     {
-      termino: 'DIseño',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+      termino: 'NTC',
+      significado: 'Norma Técnica Colombiana.',
     },
     {
-      termino: 'Tipología',
-      significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+      termino: 'PESV',
+      significado: 'Plan Estratégico de Seguridad Vial.',
     },
     {
-      termino: 'Bidimensional',
-      significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+      termino: 'RATIO',
+      significado: 'Se relaciona con porcentaje, proporción, frecuencia.',
     },
     {
-      termino: 'Interés Inferior del menor',
+      termino: 'SOSTENIBLE',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Corresponde a la compatibilidad con los recursos con los que cuenta la región para que se mantenga productiva en el tiempo. Equilibrio con el entorno.',
     },
   ],
   complementario: [
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Políticas Cepal Naciones Unidas.',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Cipoletta, G., Pérez, G. y Sánchez, Ricardo. (2010). Políticas integradas de infraestructura, transporte y logística: experiencias internacionales y propuestas iniciales. Naciones Unidas Cepal.',
+      tipo: 'Publicación Naciones Unidas.',
+      descarga: 'downloads/PolíticasCepalNacionesUnidas.pdf',
     },
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Fundamentos del servicio al cliente.',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
-    },
-    {
-      tema: 'Estrategias para la segmentación de mercados',
-      referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Diago, F. (2005). Fundamentos del servicio al cliente de la aviación comercial. Editorial Politécnico Grancolombiano',
+      tipo: 'Libro',
+      descarga: 'downloads/fundamenteosservicioalcliente.pdf',
     },
   ],
   creditos: {

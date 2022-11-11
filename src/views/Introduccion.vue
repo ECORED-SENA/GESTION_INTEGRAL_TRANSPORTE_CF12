@@ -12,7 +12,7 @@
     p.mb-4 En una empresa de transporte de carga o pasajeros, lo que se vende es el servicio, el cual, aunque está implícito dentro de cualquier actividad comercial, la relación comercial final está dada por la prestación del servicio. Por ende, el cliente deberá ser el eje principal para el origen de todas las operaciones, y en función de sus necesidades, es que se planean todas las estrategias comerciales que dan naturaleza al funcionamiento de la empresa. 
 
     .fondo1
-      .row.justify-content-center.align-items-center
+      .row.justify-content-center.align-items-center(data-aos="fade-left")
         .col-lg-5.col-8
           img.mb-5.mb-lg-0.mb-3(src="@/assets/curso/intro/img01.png")
         .col-lg-7.col-12

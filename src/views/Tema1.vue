@@ -8,14 +8,14 @@
         span 1
       h1 Medición de la satisfacción del cliente
 
-    img.mb-4(src="@/assets/curso/tema1/img01.png")
+    img.mb-4(src="@/assets/curso/tema1/img01.png" data-aos="fade-left")
     p.mb-0 El cliente es el actor más importante en la prestación de un servicio o adquisición de un bien. Conocer su punto de vista es fundamental para el crecimiento de las empresas, ya que sus aportes facilitan la mejora continua por su percepción de una realidad que, como oferentes, posiblemente no se identifiquen al interior de la empresa.
 
     Separador
     #t_1_1.titulo-segundo.color-acento-contenido
       h2 1.1 ¿Qué es la medición y para qué se usa?
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
       .col-lg-6.col-12
         .cajon.color-primario.p-4.mb-3
           p.mb-0 La medición es una característica cuantitativa de algún aspecto y se usa para obtener la dimensión numérica o un valor que refleje el resultado de un proceso. Para el caso de la satisfacción del cliente, hace referencia a la medida de la satisfacción o percepción del servicio en los clientes. 
@@ -23,7 +23,7 @@
       .col-lg-6.col-8
         img.mb-0(src="@/assets/curso/tema1/img02.png")
 
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-4.col-8
         img.mb-lg-0.mb-3(src="@/assets/curso/tema1/img03.png")
       .col-lg-8.col-12
@@ -39,7 +39,7 @@
     p.mb-4 A continuación se expondrán los más utilizados para evaluar la satisfacción de los clientes, permitiendo, a través de la información recolectada, establecer las ventajas, desventajas, fortalezas o debilidades con las que el cliente percibe al servicio. 
     p.mb-5 En el servicio de transporte se evidencian varios aspectos importantes a resaltar:
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-5.col-12
         .TFcontainer.mb-lg-0.mb-3.p-0
           img.TFimage(src='@/assets/curso/tema1/img05.png')
@@ -63,7 +63,7 @@
 
     p.mb-4 Los elementos de la satisfacción al cliente y sus características se mencionan a continuación:
 
-    TabsC.color-acento-contenido.mb-5
+    TabsC.color-acento-contenido.mb-5(data-aos="fade-right")
       .py-3.py-md-4(titulo="Rendimiento")
         .row.justify-content-evenly
           .col-lg-4.col-8
@@ -126,24 +126,24 @@
         
     p.mb-4 Las encuestas son una herramienta ampliamente empleada en todo lo relacionado con investigación y facilitan la recolección de información a través de la comunicación directa con el cliente. Es importante que estas encuestas sean eficientes, es decir, que tomen poco tiempo para que sean resueltas por el cliente; que sean claras y concisas, que aborden los puntos importantes del servicio y que los resultados no sean manipulables; ofreciendo oportunidad de expresar lo que el cliente desea. 
 
-    .row.justify-content-evenly.d-flex.align-items-center.mb-5.fondo1
+    .row.justify-content-evenly.d-flex.align-items-center.mb-5.fondo1(data-aos="fade-left")
       .col-lg-4.col-12
         p.mb-lg-0.mb-3 <b>Permiten la obtención de los niveles de satisfacción.       La metodología más empleada es a través de preguntas.  Las siguientes son algunas clases de preguntas:</b>
       .col-lg-2.col-12
         .tarjeta1.py-3.mb-lg-0.mb-3
           div.d-flex.justify-content-center.mb-3
             img.mb-0(style="width:109px" src="@/assets/curso/tema1/img11.png")
-          p.mb-0.text-center Opción múltiple con respuesta única.
+          p.mb-0.text-center.px-3 Opción múltiple con respuesta única.
       .col-lg-2.col-12
         .tarjeta1.py-3.mb-lg-0.mb-3
           div.d-flex.justify-content-center.mb-3
             img.mb-0(style="width:109px" src="@/assets/curso/tema1/img12.png")
-          p.mb-0.text-center Opción múltiple con varias respuestas.
+          p.mb-0.text-center.px-3 Opción múltiple con varias respuestas.
       .col-lg-2.col-12
         .tarjeta1.py-3.mb-lg-0.mb-3
           div.d-flex.justify-content-center.mb-3
             img.mb-0(style="width:109px" src="@/assets/curso/tema1/img13.png")
-          p.mb-0.text-center Preguntas con respuesta abierta.
+          p.mb-0.text-center.px-3 Preguntas con respuesta abierta.
 
     p.mb-4 Es importante manejar un lenguaje claro y simple, una redacción coherente, que haya solo una interpretación del contenido y se cuente con las instrucciones para resolver el cuestionario.
     p.mb-5 A continuación, se describen algunas de las ventajas y desventajas del uso de preguntas con opciones de respuesta múltiples:
@@ -151,7 +151,7 @@
     .titulo-sexto.color-acento-contenido(data-aos="fade-left")
       p.titulo <b>Tabla 1.</b> <i>Ventajas y desventajas del uso de preguntas con opciones de respuesta múltiples</i>
 
-    .tabla-b.color-acento-contenido.mb-5            
+    .tabla-b.color-acento-contenido.mb-5(data-aos="fade-right")            
       table
         tr
           th(style="background-color: #483876;")
@@ -170,7 +170,7 @@
 
     p.mb-4 Las siguientes son algunas de las ventajas y desventajas de usar <b>preguntas con opciones de respuesta abierta</b>:
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-left")
       .col-lg-6.col-12.px-5.py-4.mb-lg-0.mb-3(style="background-color:#ffdad2; border-radius: 20px 0 0 20px")
         div.d-flex.justify-content-center
           img.mb-4(style="width:125px" src="@/assets/curso/tema1/img14.png")
@@ -201,7 +201,7 @@
               | Mucha información recolectada, por ende, más tiempo en su procesamiento y obtención de conclusiones eficientes.
     p.mb-5 A continuación, se enuncian los tipos más comunes de encuestas de satisfacción del cliente:
     
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-lg-10.col-12
         .titulo-sexto.color-acento-contenido(data-aos="fade-left")
           p.titulo <b>Tabla 2.</b> <i>Tipos más comunes de encuestas de satisfacción.</i>
@@ -233,7 +233,7 @@
       div.px-2
         h3.mb-0 Fidelización de clientes  
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-left")
       .col-lg-6.col-12 
         p.mb-lg-0.mb-3 La fidelización hace referencia a la elección de un cliente por un servicio prestado o un producto entregado, en varias ocasiones e, inclusive, en años. Este aspecto es uno de los métodos que demuestran la satisfacción de los clientes, saber cuánto tiempo llevan con la empresa a la cual han contribuido en su crecimiento o fortalecimiento. La idea de identificar la fidelización es para saber con quiénes se cuenta.  Se ha demostrado que son quienes compran o adquieren los servicios o productos innovadores, es decir, que les gusta lo que se ofrece y cómo se hace; por lo que contribuye a generar ventajas que ayudan al incremento de clientes y referencias positivas. 
       .col-lg-6.col-12 
@@ -247,7 +247,7 @@
 
     p.mb-4 Esta metodología es la más adecuada para la mejora continua de un negocio, ya que se conocen de primera mano las no conformidades o desacuerdos de los clientes y permite analizar la satisfacción de los clientes luego de solucionarlas. A continuación, se profundiza en los conceptos para mayor claridad:
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-4.col-12
         img.mb-lg-0.mb-3(src="@/assets/curso/tema1/img17.png") 
       .col-lg-8.col-12
@@ -274,7 +274,7 @@
       div.px-2
         h3.mb-0 Entrevistas
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-8.col-12
         p.mb-5 Dentro de las entrevistas, se encuentra:
         div.px-4.mb-4 
@@ -302,7 +302,7 @@
       .col-lg-4.col-10
          img.mb-0( src="@/assets/curso/tema1/img20.png")
     
-    .row.justify-content-evenly.d-flex.align-items-center.mb-5
+    .row.justify-content-evenly.d-flex.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-6.col-10
         img.mb-0( src="@/assets/curso/tema1/img23.png")
       .col-lg-6.col-12
@@ -327,7 +327,7 @@
         h3.mb-0 Calificación del servicio
 
     p.mb-5 Esta metodología busca establecer el índice de satisfacción de los clientes. Es una forma fácil y rápida de conocer su percepción en determinados servicios. Tiene la ventaja de ser rápida y concisa, por lo que los clientes tienden a colaborar más en dar respuestas. Normalmente, se emplea una escala de rango con un valor mínimo y máximo de valoración, lo que facilita su cómputo y manejo.  La siguiente imagen muestra un ejemplo de este tipo de medición: 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-8.col-12
         img.mb-0(src="@/assets/curso/tema1/img24.png")
         figcaption Nota: Ejemplo escala de valoración
@@ -338,7 +338,7 @@
       div.px-2
         h3.mb-0 Clientes por recomendación
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-6.col-12
         p.mb-4 Esta metodología, sin duda, puede aportar mucho para medir la satisfacción de los clientes.  Uno de los aspectos más importantes para un cliente es saber que se cuenta con una experiencia previa en el servicio o producto. El que un amigo o conocido recomiende a alguien se vuelve una tendencia muy común a la hora de contratar para solucionar una necesidad. El cliente se convierte en un portavoz de la empresa. 
         p.mb-lg-0.mb-3 Se calcula mediante el conteo de clientes que recomiendan a otros clientes sobre el total de clientes. Se determina el índice y la idea es que debe tender a 1. 
