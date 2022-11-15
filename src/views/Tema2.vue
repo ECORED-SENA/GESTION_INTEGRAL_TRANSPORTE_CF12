@@ -109,24 +109,28 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-8.col-12
         AcordionA.mb-lg-0.mb-3(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
-          .row.justify-content-end(titulo="Relación costo/beneficio")  
+          .row.justify-content-center(titulo="Relación costo/beneficio")  
             .col-lg-2.col-6
-              img.mb-lg-0.mb-3(style="min-width:85px" src="@/assets/curso/tema2/img11.svg")
+              .p-0.d-flex.justify-content-center
+                img.mb-lg-0.mb-3(style="min-width:85px; max-width:85px" src="@/assets/curso/tema2/img11.svg")
             .col-lg-9.col-12
               p.mb-0 La calidad prestada no puede verse nunca afectada por una reducción de costos, pensando solo en los beneficios económicos para el empresario, porque finalmente el cliente es quien determina si usa o no, si refiere o no a la empresa y sus servicios. Se debe entender que el beneficio debe ser mutuo, cliente-empresario, y es por eso que los indicadores que hacen parte de este aspecto deben definir los límites mínimos y máximos de calidad, para que se busquen estrategias alternativas que reduzcan costos pero que no se salgan del equilibrio con el beneficio.
-          .row.justify-content-end(titulo="Tiempos")  
+          .row.justify-content-center(titulo="Tiempos")  
             .col-lg-2.col-6
-              img.mb-lg-0.mb-3(style="min-width:85px" src="@/assets/curso/tema2/img12.svg")
+              .p-0.d-flex.justify-content-center
+                img.mb-lg-0.mb-3(style="min-width:85px; max-width:85px" src="@/assets/curso/tema2/img12.svg")
             .col-lg-9.col-12
               p.mb-0 La reducción del tiempo es fundamental, la utilización adecuada de los recursos en sincronía para disminuir el tiempo destaca habilidades en logística y confiabilidad para los clientes. Los tiempos pueden ser reducidos con una buena gestión, de forma general, en los procesos que acompañan el servicio de transporte, en la carga o en los pasajeros.
-          .row.justify-content-end(titulo="Nivel de satisfacción del cliente")  
+          .row.justify-content-center(titulo="Nivel de satisfacción del cliente")  
             .col-lg-2.col-6
-              img.mb-lg-0.mb-3(style="min-width:85px" src="@/assets/curso/tema2/img13.svg")
+              .p-0.d-flex.justify-content-center
+                img.mb-lg-0.mb-3(style="min-width:85px; max-width:85px" src="@/assets/curso/tema2/img13.svg")
             .col-lg-9.col-12
               p.mb-0 Incluye la opinión de los clientes, que, como se estudió en el numeral 1 del presente componente formativo, son fundamentales para conocer el punto de vista objetivo del usuario final del servicio.
-          .row.justify-content-end(titulo="Operaciones de logística inversa")  
+          .row.justify-content-center(titulo="Operaciones de logística inversa")  
             .col-lg-2.col-6
-              img.mb-lg-0.mb-3(style="min-width:85px" src="@/assets/curso/tema2/img14.svg")
+              .p-0.d-flex.justify-content-center
+                img.mb-lg-0.mb-3(style="min-width:85px; max-width:85px" src="@/assets/curso/tema2/img14.svg")
             .col-lg-9.col-12
               p.mb-0 Contempla aspectos como tiempos de recogida y devolución, para el caso de mercancías, y costos que afectaron al cliente, pérdidas cualitativas o cuantitativas e impactos medioambientales y sociales.
       .col-lg-4.col-10
@@ -215,28 +219,28 @@
         .row.justify-content-center
           .col-lg-6.col-12      
             h4.mb-4 Impacto social
-            p.mb-0 Puede afectar a la sociedad por los cambios que se generan en su entorno al crear u operar la empresa en un sector con una comunidad. Se pueden generar daños a la infraestructura por el peso de los vehículos, el tránsito de vehículos de gran escala que deterioren la infraestructura, daños en las zonas de esparcimiento y recreo de colegios, incremento de accidentalidad vial, reducción de tránsito por zonas de cargue y descargue.
+            p.mb-lg-0.mb-3 Puede afectar a la sociedad por los cambios que se generan en su entorno al crear u operar la empresa en un sector con una comunidad. Se pueden generar daños a la infraestructura por el peso de los vehículos, el tránsito de vehículos de gran escala que deterioren la infraestructura, daños en las zonas de esparcimiento y recreo de colegios, incremento de accidentalidad vial, reducción de tránsito por zonas de cargue y descargue.
           .col-lg-6.col-10   
             img.mb-lg-0.mb-3(src="@/assets/curso/tema2/img24.png")
       .py-4.py-md-5(titulo="Impacto ambiental" :icono="require('@/assets/curso/tema2/img21.svg')")
         .row.justify-content-center
           .col-lg-6.col-12      
             h4.mb-4 Impacto ambiental
-            p.mb-0 Uso de aguas por lavado de vehículos, incremento de gases tóxicos, ruido por llegada y salida de vehículos de gran dimensión, uso inadecuado de residuos 3R (Reducir, Reutilizar y Reciclar).
+            p.mb-lg-0.mb-3 Uso de aguas por lavado de vehículos, incremento de gases tóxicos, ruido por llegada y salida de vehículos de gran dimensión, uso inadecuado de residuos 3R (Reducir, Reutilizar y Reciclar).
           .col-lg-6.col-10   
             img.mb-lg-0.mb-3(src="@/assets/curso/tema2/img25.png")
       .py-4.py-md-5(titulo="Impacto tecnológico" :icono="require('@/assets/curso/tema2/img22.svg')")
         .row.justify-content-center
           .col-lg-6.col-12      
             h4.mb-4 Impacto tecnológico
-            p.mb-0 La implementación de nuevas tecnologías que busquen esa integridad con el medio ambiente, utilizando vehículos más amigables con el medio ambiente, que reduzcan el impacto ambiental, es un puntaje muy positivo a las empresas. Además, con la implementación de las vías ITS (<i>gent transport systems</i> – Sistemas inteligentes de transporte) que adelanta el INVIAS en Colombia, se requiere que la actualización de los vehículos facilite sus fines de administración de información, seguridad nacional en carreteras y control de velocidades para disminución de accidentalidad vial.
+            p.mb-lg-0.mb-3 La implementación de nuevas tecnologías que busquen esa integridad con el medio ambiente, utilizando vehículos más amigables con el medio ambiente, que reduzcan el impacto ambiental, es un puntaje muy positivo a las empresas. Además, con la implementación de las vías ITS (<i>gent transport systems</i> – Sistemas inteligentes de transporte) que adelanta el INVIAS en Colombia, se requiere que la actualización de los vehículos facilite sus fines de administración de información, seguridad nacional en carreteras y control de velocidades para disminución de accidentalidad vial.
           .col-lg-6.col-10   
             img.mb-lg-0.mb-3(src="@/assets/curso/tema2/img26.png")
       .py-4.py-md-5(titulo="Impacto económico" :icono="require('@/assets/curso/tema2/img23.svg')")
         .row.justify-content-center
           .col-lg-6.col-12      
             h4.mb-4 Impacto económico
-            p.mb-0 Generación de nuevos empleos, incremento de oportunidad a sus empleados mejorando calidad de vida de la región.
+            p.mb-lg-0.mb-3 Generación de nuevos empleos, incremento de oportunidad a sus empleados mejorando calidad de vida de la región.
           .col-lg-6.col-10   
             img.mb-lg-0.mb-3(src="@/assets/curso/tema2/img27.png")
             
@@ -268,26 +272,26 @@
     p.mb-4 Para las empresas de transporte y logística, se reconocen algunos indicadores usados para el servicio al cliente, los cuales se clasifican en cuatro grandes grupos:
 
     .row.justify-content-center.mb-5(data-aos="fade-left")
-      .col-lg-3.col-12.d-flex
-        .tarjeta3.py-5.px-3(style="background-color: #ffe5a6")
+      .col-lg-3.col-md-6.col-12.d-flex
+        .tarjeta3.py-5.px-3.mb-lg-0.mb-3(style="background-color: #ffe5a6")
           div.d-flex.justify-content-center.mb-4
             img.mb-lg-0.mb-3(style="width:160px" src="@/assets/curso/tema2/img29.svg")
           h4.text-center.mb-4 Tiempo 
           p.text-center.mb-0 Tiempo de respuesta a los clientes, procesamiento del pedido, tiempo de entrega.
-      .col-lg-3.col-12.d-flex
-        .tarjeta3.py-5.px-3(style="background-color: #ffda7f")
+      .col-lg-3.col-md-6.col-12.d-flex
+        .tarjeta3.py-5.px-3.mb-lg-0.mb-3(style="background-color: #ffda7f")
           div.d-flex.justify-content-center.mb-4
             img.mb-lg-0.mb-3(style="width:122px" src="@/assets/curso/tema2/img30.svg")
           h4.text-center.mb-4 Costos 
           p.text-center.mb-0 Costo del servicio de transporte, costo por errores logísticos y devoluciones. 
-      .col-lg-3.col-12.d-flex
-        .tarjeta3.py-5.px-3(style="background-color: #ffcb4c")
+      .col-lg-3.col-md-6.col-12.d-flex
+        .tarjeta3.py-5.px-3.mb-lg-0.mb-3(style="background-color: #ffcb4c")
           div.d-flex.justify-content-center.mb-4
             img.mb-lg-0.mb-3(style="width:125px" src="@/assets/curso/tema2/img31.svg")
           h4.text-center.mb-4 Calidad 
           p.text-center.mb-0 Nivel de satisfacción, errores en despachos, empleados capacitados en atención al cliente.
-      .col-lg-3.col-12.d-flex
-        .tarjeta3.py-5.px-3(style="background-color: #ffb500")
+      .col-lg-3.col-md-6.col-12.d-flex
+        .tarjeta3.py-5.px-3.mb-lg-0.mb-3(style="background-color: #ffb500")
           div.d-flex.justify-content-center.mb-4
             img.mb-lg-0.mb-3(style="width:134px" src="@/assets/curso/tema2/img32.svg")
           h4.text-center.mb-4 Confiabilidad 

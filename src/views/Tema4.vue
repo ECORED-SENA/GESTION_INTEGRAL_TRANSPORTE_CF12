@@ -19,7 +19,7 @@
         img.mb-lg-0.mb-3( src="@/assets/curso/tema4/img02.png")
       .col-lg-8.col-10
         p.mb-4 Existen dos características que se deben considerar para la verificación de los productos y son:
-        ol.lista-ol--cuadro.mb-0
+        ol.lista-ol--cuadro.lista-ol--separador.mb-0
           li 
             .lista-ol--cuadro__vineta(style="background-color: #ffba5b")
               span(style="color: #12263F") 1
@@ -28,12 +28,53 @@
             .lista-ol--cuadro__vineta(style="background-color: #ffba5b")
               span(style="color: #12263F") 2
             | Que son inseparables porque los servicios no se pueden independizar de la fuente de producción.
+          li
     
     p.mb-5 Lo anterior es lo que genera que la verificación no sea tan sencilla como se quisiera, porque es imposible evitar que el cliente no presencie, viva o sienta inconformismo por el servicio. Lo importante de estas técnicas es tratar de disminuir los riesgos que se puedan ocasionar con las problemáticas estudiadas; para esto, se propone separar los elementos que intervienen en el servicio para que se puedan controlar de forma individual.
 
+    .row.justify-content-center.d-flex.align-items-center.mb-0(data-aos="fade-left")
+      .col-lg-12.col-12
+        h4.text-center.mb-5 Verificación
+        .row.justify-content-center
+          .col-lg-2.col-7
+            div.p-lg-2.p-0.mb-lg-0.mb-5
+              img.mb-lg-0.mb-2( src="@/assets/curso/tema4/img17.svg")
+              p.mb-0.text-center.d-xl-none <b>Cliente</b>
+          .col-lg-2.col-7
+            div.p-lg-2.p-0.mb-lg-0.mb-5
+              img.mb-lg-0.mb-2( src="@/assets/curso/tema4/img18.svg")
+              p.mb-0.text-center.d-xl-none <b>Prestador del servicio</b>
+          .col-lg-2.col-7
+            div.p-lg-2.p-0.mb-lg-0.mb-5
+              img.mb-lg-0.mb-2( src="@/assets/curso/tema4/img19.svg")
+              p.mb-0.text-center.d-xl-none <b>Objetivos del servicio</b>
+          .col-lg-2.col-7
+            div.p-lg-2.p-0.mb-lg-0.mb-5
+              img.mb-lg-0.mb-2( src="@/assets/curso/tema4/img20.svg")
+              p.mb-0.text-center.d-xl-none <b>Localidades</b>
+          .col-lg-2.col-7
+            div.p-lg-2.p-0.mb-lg-0.mb-5
+              img.mb-lg-0.mb-2( src="@/assets/curso/tema4/img21.svg")
+              p.mb-0.text-center.d-xl-none <b>Equipos y tecnología</b>
+        div.d-none.d-lg-block
+          .row.justify-content-center
+            .col-lg-2
+              div.p-lg-2.p-0.mb-lg-0.mb-3              
+                p.mb-0.text-center <b>Cliente</b>
+            .col-lg-2
+              div.p-lg-2.p-0.mb-lg-0.mb-3              
+                p.mb-0.text-center <b>Prestador del servicio</b>
+            .col-lg-2
+              div.p-lg-2.p-0.mb-lg-0.mb-3              
+                p.mb-0.text-center <b>Objetivos del servicio</b>
+            .col-lg-2
+              div.p-lg-2.p-0.mb-lg-0.mb-3              
+                p.mb-0.text-center <b>Localidades</b>
+            .col-lg-2
+              div.p-lg-2.p-0.mb-lg-0.mb-3              
+                p.mb-0.text-center <b>Equipos y tecnología</b>
     .row.justify-content-center.d-flex.align-items-center.mb-5(data-aos="fade-left")
-      .col-lg-10.col-12
-        img.mb-0( src="@/assets/curso/tema4/img03.svg")
+      .col-lg-10.col-12    
         figcaption Nota: Elementos a tener en cuenta en la verificación
 
     .row.justify-content-center.d-flex.align-items-center.mb-5(data-aos="fade-right")
@@ -65,10 +106,11 @@
 
     .row.justify-content-center.d-flex.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10.col-12
-        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5(style="background-color: #ffeed6")
+        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.position-relative(style="background-color: #ffeed6")
           .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/tema4/img05.png')})`}"
+            :style="{'background-image': `url(${require('@/assets/curso/tema4/img23.png')})`}"
           )
+          //img.mb-0(src="@/assets/curso/tema4/img22.png")
           .bloque-texto-g__texto.p-4
             p.mb-0 El informe de gestión es un documento mediante el cual se pueden presentar una serie de datos que demuestran los alcances, logros y, en sí, la gestión realizada por el departamento o grupo que lo elabora. Se debe plantear considerando los objetivos particulares de cada departamento y los objetivos misionales de la organización, porque deben estar alineados o articulados. En sí, toda la gestión realizada en una empresa deberá demostrar cómo es su aporte para el logro de los objetivos del empresario.              
             
@@ -208,43 +250,43 @@
     .row.justify-content-center.align-items-center.mb-lg-5.mb-3(data-aos="fade-right")
       .col-lg-12.col-12.px-lg-5.px-0
         .row.justify-content-center.mb-0
-          .col-lg-4.col-12.d-flex
-            .TFcontainer.mb-0.p-0
+          .col-lg-4.col-md-9.col-12.d-flex
+            .TFcontainer.mb-lg-0.mb-3.p-0
               img.TFimage(src='@/assets/curso/tema4/img12.png')
-              .TFoverlay.d-flex.align-items-center
-                .p-3
+              .TFoverlay.d-flex.align-items-top
+                .p-4.tarjetica1.w-100
                   h4.mb-4.text-center Datos de la empresa
                   p.text-center Los básicos mínimos como NIT, nombre o razón social, contacto.
-          .col-lg-4.col-12.d-flex
-            .TFcontainer.mb-0.p-0
+          .col-lg-4.col-md-9.col-12.d-flex
+            .TFcontainer.mb-lg-0.mb-3.p-0
               img.TFimage(src='@/assets/curso/tema4/img13.png')
-              .TFoverlay.d-flex.align-items-center
-                .p-3
+              .TFoverlay.d-flex.align-items-top
+                .p-4.tarjetica1.w-100
                   h4.mb-4.text-center Datos del empleado
                   p.text-center Nombre, identificación, cargo en el que labora y tiempo de antigüedad en la organización.
-          .col-lg-4.col-12.d-flex
-            .TFcontainer.mb-0.p-0
+          .col-lg-4.col-md-9.col-12.d-flex
+            .TFcontainer.mb-lg-0.mb-3.p-0
               img.TFimage(src='@/assets/curso/tema4/img14.png')
-              .TFoverlay.d-flex.align-items-center
-                .p-3
+              .TFoverlay.d-flex.align-items-top
+                .p-4.tarjetica1.w-100
                   h4.mb-4.text-center Referencias
                   p.text-center O convenciones de las letras o elementos que requieran descripción, rangos.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12.col-12.px-lg-5.px-0
         .row.justify-content-center.mb-0
-          .col-lg-4.col-12.d-flex
-            .TFcontainer.mb-0.p-0
+          .col-lg-4.col-md-9.col-12.d-flex
+            .TFcontainer.mb-lg-0.mb-3.p-0
               img.TFimage(src='@/assets/curso/tema4/img15.png')
-              .TFoverlay.d-flex.align-items-center
-                .p-3
+              .TFoverlay.d-flex.align-items-top
+                .p-4.tarjetica1.w-100
                   h4.mb-4.text-center Áreas para evaluar por separado
                   p.text-center Personal, social y técnica. Cada una con sus competencias.
-          .col-lg-4.col-12.d-flex
-            .TFcontainer.mb-0.p-0
+          .col-lg-4.col-md-9.col-12.d-flex
+            .TFcontainer.mb-lg-0.mb-3.p-0
               img.TFimage(src='@/assets/curso/tema4/img16.png')
-              .TFoverlay.d-flex.align-items-center
-                .p-3.w-100
+              .TFoverlay.d-flex.align-items-top
+                .p-4.tarjetica1.w-100
                   h4.mb-4.text-center Datos del evaluador
                   div.d-flex.p-0.justify-content-center
                     p.text-center Quien realiza la evaluación o la presenta.

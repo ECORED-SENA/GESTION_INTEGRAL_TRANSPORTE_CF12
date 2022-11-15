@@ -57,9 +57,9 @@
       h2 5.1	Acciones de mejora en la operación
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
-      .col-lg-4.col-10
+      .col-lg-4.col-7
         img.mb-lg-0.mb-3(src="@/assets/curso/tema5/img03.png")
-      .col-lg-8.col-10
+      .col-lg-8.col-12
         p.mb-3 Una vez analizados los problemas más frecuentes en la operación del servicio de transporte, se establecen las acciones a implementar para su solución. 
         p.mb-3 Las acciones de mejora son aquellas estrategias con las cuales se pretenden subsanar las no conformidades encontradas o halladas por el grupo auditor de control interno o externo; pueden estar enmarcadas dentro de procesos sistemáticos o acciones de una sola vez. 
         p.mb-3 Entre las ventajas que la optimización de rutas puede aportar a una empresa de transporte, destacan las siguientes: 
@@ -132,22 +132,22 @@
     .row.justify-content-center.align-items-center.mb-lg-5.mb-3(data-aos="fade-left")
       .col-lg-12.col-12.px-lg-5.px-0
         .row.justify-content-center.mb-0
-          .col-lg-4.col-12.d-flex
-            .TFcontainer.mb-0.p-0
+          .col-lg-4.col-md-9.col-12.d-flex
+            .TFcontainer.mb-lg-0.mb-3.p-0
               img.TFimage(src='@/assets/curso/tema5/img11.png')
               .TFoverlay.d-flex.align-items-center
                 .p-3
                   img.mb-4(style="width:102px" src='@/assets/curso/tema5/img16.svg')
                   p.mb-0 Importante la implementación de estrategias 5´s de orden y limpieza en el puesto de trabajo: Subordinar, clasificar y descartar; sistematizar y ordenar; sanear y limpiar; simplificar, estandarizar y volver coherente; sostener el proceso y disciplinar.  Con esto se mejoran los procesos y se comprometen todos los actores de la cadena de suministro, al tener claros los procesos, todo funciona sincrónicamente. 
-          .col-lg-4.col-12.d-flex
-            .TFcontainer.mb-0.p-0
+          .col-lg-4.col-md-9.col-12.d-flex
+            .TFcontainer.mb-lg-0.mb-3.p-0
               img.TFimage(src='@/assets/curso/tema5/img12.png')
               .TFoverlay.d-flex.align-items-center
                 .p-3
                   img.mb-4(style="width:103px" src='@/assets/curso/tema5/img17.svg')
                   p.mb-0 Implementar, controlar y verificar los modelos de ruteo implementados para mejorar la administración de los recursos: humanos, equipos y espacios. 
-          .col-lg-4.col-12.d-flex
-            .TFcontainer.mb-0.p-0
+          .col-lg-4.col-md-9.col-12.d-flex
+            .TFcontainer.mb-lg-0.mb-3.p-0
               img.TFimage(src='@/assets/curso/tema5/img13.png')
               .TFoverlay.d-flex.align-items-center
                 .p-3
@@ -157,15 +157,15 @@
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
       .col-lg-12.col-12.px-lg-5.px-0
         .row.justify-content-center.mb-0
-          .col-lg-4.col-12.d-flex
-            .TFcontainer.mb-0.p-0
+          .col-lg-4.col-md-9.col-12.d-flex
+            .TFcontainer.mb-lg-0.mb-3.p-0
               img.TFimage(src='@/assets/curso/tema5/img14.png')
               .TFoverlay.d-flex.align-items-center
                 .p-3
                   img.mb-4(style="width:102px" src='@/assets/curso/tema5/img19.svg')
                   p.mb-0 Implementación de procesos de simulación que permitan comprobar las acciones de mejora que se proyecta implementar.  
-          .col-lg-4.col-12.d-flex
-            .TFcontainer.mb-0.p-0
+          .col-lg-4.col-md-9.col-12.d-flex
+            .TFcontainer.mb-lg-0.mb-3.p-0
               img.TFimage(src='@/assets/curso/tema5/img15.png')
               .TFoverlay.d-flex.align-items-center
                 .p-3

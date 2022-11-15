@@ -44,21 +44,23 @@
         .TFcontainer.mb-lg-0.mb-3.p-0
           img.TFimage(src='@/assets/curso/tema1/img05.png')
           .TFoverlay
-            .p-5
+            .p-lg-5.p-2.py-lg-4
               .row.justify-content-center
-                .col-1
-                  img.mb-0(style="min-width:22px; width:22px" src="@/assets/curso/tema1/img04.png")
-                .col-10
+                .col-1.d-none.d-sm-block
+                  img.mb-lg-0.mb-3(style="min-width:22px; width:22px" src="@/assets/curso/tema1/img04.png")
+                .col-lg-10.col-12
+                  h2.text-center.mb-lg-4.mb-2.titulooculto Transporte de pasajeros
                   p.mb-0 Independientemente del modo de transporte que elijan, los usuarios son los clientes finales. Es importante resaltar que aspectos como tiempo de viaje, costo, comodidad, sinceridad en el servicio, limpieza y aseo, amabilidad de los operadores, cumplimiento en frecuencias de viajes son los aspectos que permiten ser competitivos con otros servicios.
       .col-lg-5.col-12
-        .TFcontainer.mb-0.p-0
+        .TFcontainer.mb-lg-0.mb-3.p-0
           img.TFimage(src='@/assets/curso/tema1/img06.png')
           .TFoverlay
-            .p-5
+            .p-lg-5.p-2.py-lg-4
               .row.justify-content-center
-                .col-1
-                  img.mb-0(style="min-width:22px; width:22px" src="@/assets/curso/tema1/img04.png")
-                .col-10
+                .col-1.d-none.d-sm-block
+                  img.mb-lg-0.mb-3(style="min-width:22px; width:22px" src="@/assets/curso/tema1/img04.png")
+                .col-lg-10.col-12
+                  h2.text-center.mb-lg-4.mb-2 Transporte de carga
                   p.mb-0 Influyen aspectos como el costo, tiempos de viaje, cumplimiento de frecuencias e itinerarios, protección y calidad en el cuidado de la carga, embalaje, son los aspectos más relevantes. Ya que los clientes son variables y sus necesidades también, es necesaria una muy buena logística.
 
     p.mb-4 Los elementos de la satisfacción al cliente y sus características se mencionan a continuación:
@@ -304,7 +306,7 @@
     
     .row.justify-content-evenly.d-flex.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-6.col-10
-        img.mb-0( src="@/assets/curso/tema1/img23.png")
+        img.mb-lg-0.mb-3( src="@/assets/curso/tema1/img23.png")
       .col-lg-6.col-12
         p.mb-4 Lo principal que se pretende conocer bajo esta modalidad es:
         ul.lista-ul--color.mb-4

@@ -67,6 +67,11 @@ figcaption
     filter: grayscale(0%) opacity(100%);
 
 
+.lista-ul--separador li 
+// padding-bottom: 15px;
+// margin-bottom: 15px;
+  border-bottom: solid 1px #AFAFAF !important
+
 .acordion
     .fas
       color: white
@@ -140,7 +145,7 @@ figcaption
 
   .TFcontainer
       position: relative
-      width: 100%
+      width: 100%      
       //border-radius: 10px
 
   .TFimage
@@ -152,20 +157,23 @@ figcaption
 
   .TFoverlay
     position: absolute
-    bottom: 17%
+    bottom: 0%
     left: 0
     right: 0
     border-radius: 10px 10px 0px 0px
     overflow: hidden
     width: 100%
     margin-left: 0%       
-    height: 0%
+    height: 17%
     min-height: 0%
     transition: .5s ease
     background-color: rgba(255, 166, 145, 0.90)
 
   .TFcontainer:hover .TFoverlay
-    height: 83%
+    height: 100%
+    .titulooculto
+      @media(max-width: 577px)
+        display: none !important
 
 .tema2
   .fondo100
@@ -271,7 +279,6 @@ figcaption
       //border-radius: 10px
 
   .TFimage
-    border-radius: 10px
     display: block
     width: 100%
     height: 100%
@@ -288,12 +295,27 @@ figcaption
     width: 100%
     margin-left: 0%       
     height: 0%
-    min-height: 0%
+    min-height: 19%
     transition: .5s ease
     background-color: #ffe9e4
+    //background-color: red
 
   .TFcontainer:hover .TFoverlay
     height: 100%
+    align-items: center!important;
+    h2
+      font-size: 18px !important
+
+
+  .tarjetica1
+    @media(min-width: 576px)
+      padding-top: 25px !important
+      h2
+        font-size: 24px !important
+    
+    padding-top: 7px !important
+    h2
+      font-size: 18px
 
 .tema5
   .TFcontainer

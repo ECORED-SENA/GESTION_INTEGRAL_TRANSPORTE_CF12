@@ -21,14 +21,14 @@
     p.mb-5 Dentro de la operación del transporte de carga, lo que siempre se va a ver afectado es la carga en sí y los tiempos de la maniobra. A continuación, se describen algunas de las situaciones que se presentan dentro de este tipo de servicio: 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
-      .col-lg-5.col-12
+      .col-lg-5.col-md-9.col-12
         .TFcontainer.mb-lg-0.mb-3.p-0
           img.TFimage(src='@/assets/curso/tema3/img02.png')
           .TFoverlay.d-flex.align-items-top
             .p-4.tarjetica1
               h2.mb-lg-4.mb-3.text-center Daños a la carga durante la operación
               p.text-center.mb-0 En el cargue, tránsito y descargue, por volcamientos de la carga, movimientos bruscos, estiba inadecuada, exceder límites de pesos en apilados en contenedores, aplastamientos por sobrecarga, daños por temperaturas inadecuadas.
-      .col-lg-5.col-12
+      .col-lg-5.col-md-9.col-12
         .TFcontainer.mb-lg-0.mb-3.p-0
           img.TFimage(src='@/assets/curso/tema3/img03.png')
           .TFoverlay.d-flex.align-items-top
