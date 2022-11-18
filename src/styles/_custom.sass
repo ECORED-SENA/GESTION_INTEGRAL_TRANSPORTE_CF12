@@ -171,6 +171,8 @@ figcaption
 
   .TFcontainer:hover .TFoverlay
     height: 100%
+    .contenidooculto
+      display: block !important
     .titulooculto
       @media(max-width: 577px)
         display: none !important
@@ -254,11 +256,17 @@ figcaption
     background-color: #ffba5b
     //background-color: red
 
+  .contenidooculto
+    display: none
+
   .TFcontainer:hover .TFoverlay
     height: 100%
     align-items: center!important;
     h2
       font-size: 18px !important
+
+    .contenidooculto
+      display: block !important
 
 
   .tarjetica1
@@ -273,6 +281,9 @@ figcaption
     
 
 .tema4
+  .contenidooculto
+    display: none
+
   .TFcontainer
       position: relative
       width: 100%
@@ -295,12 +306,15 @@ figcaption
     width: 100%
     margin-left: 0%       
     height: 0%
-    min-height: 19%
+    min-height: 70px
     transition: .5s ease
     background-color: #ffe9e4
     //background-color: red
 
   .TFcontainer:hover .TFoverlay
+    .contenidooculto
+      display: block !important
+      
     height: 100%
     align-items: center!important;
     h2

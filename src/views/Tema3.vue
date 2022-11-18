@@ -25,16 +25,17 @@
         .TFcontainer.mb-lg-0.mb-3.p-0
           img.TFimage(src='@/assets/curso/tema3/img02.png')
           .TFoverlay.d-flex.align-items-top
-            .p-4.tarjetica1
-              h2.mb-lg-4.mb-3.text-center Daños a la carga durante la operación
-              p.text-center.mb-0 En el cargue, tránsito y descargue, por volcamientos de la carga, movimientos bruscos, estiba inadecuada, exceder límites de pesos en apilados en contenedores, aplastamientos por sobrecarga, daños por temperaturas inadecuadas.
+            .p-4.tarjetica1.w-100
+              div.w-100
+                h2.mb-lg-4.mb-3.text-center.w-100 Daños a la carga durante la operación
+              p.text-center.mb-0.contenidooculto En el cargue, tránsito y descargue, por volcamientos de la carga, movimientos bruscos, estiba inadecuada, exceder límites de pesos en apilados en contenedores, aplastamientos por sobrecarga, daños por temperaturas inadecuadas.
       .col-lg-5.col-md-9.col-12
         .TFcontainer.mb-lg-0.mb-3.p-0
           img.TFimage(src='@/assets/curso/tema3/img03.png')
           .TFoverlay.d-flex.align-items-top
-            .p-4.tarjetica1
+            .p-4.tarjetica1.w-100
               h2.mb-4.text-center Seguridad
-              p.text-center.mb-0 Hace referencia a la seguridad vial y de la carga, ambos tienen una incidencia alta, porque el impacto y afectaciones pueden ser incalculables. 
+              p.text-center.mb-0.contenidooculto Hace referencia a la seguridad vial y de la carga, ambos tienen una incidencia alta, porque el impacto y afectaciones pueden ser incalculables. 
         
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10.col-12.py-3(style="background-color:#edebf4; border-left: 9px solid #483876")

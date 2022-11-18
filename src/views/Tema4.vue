@@ -36,27 +36,32 @@
       .col-lg-12.col-12
         h4.text-center.mb-5 Verificación
         .row.justify-content-center
-          .col-lg-2.col-7
+          .col-xl-2.col-lg-6.col-7
             div.p-lg-2.p-0.mb-lg-0.mb-5
-              img.mb-lg-0.mb-2( src="@/assets/curso/tema4/img17.svg")
+              div.d-flex.justify-content-center
+                img.mb-lg-0.mb-2.w-50( src="@/assets/curso/tema4/img17.svg")
               p.mb-0.text-center.d-xl-none <b>Cliente</b>
-          .col-lg-2.col-7
+          .col-xl-2.col-lg-6.col-7
             div.p-lg-2.p-0.mb-lg-0.mb-5
-              img.mb-lg-0.mb-2( src="@/assets/curso/tema4/img18.svg")
+              div.d-flex.justify-content-center
+                img.mb-lg-0.mb-2.w-50( src="@/assets/curso/tema4/img18.svg")
               p.mb-0.text-center.d-xl-none <b>Prestador del servicio</b>
-          .col-lg-2.col-7
+          .col-xl-2.col-lg-6.col-7
             div.p-lg-2.p-0.mb-lg-0.mb-5
-              img.mb-lg-0.mb-2( src="@/assets/curso/tema4/img19.svg")
+              div.d-flex.justify-content-center
+                img.mb-lg-0.mb-2.w-50( src="@/assets/curso/tema4/img19.svg")
               p.mb-0.text-center.d-xl-none <b>Objetivos del servicio</b>
-          .col-lg-2.col-7
+          .col-xl-2.col-lg-6.col-7
             div.p-lg-2.p-0.mb-lg-0.mb-5
-              img.mb-lg-0.mb-2( src="@/assets/curso/tema4/img20.svg")
+              div.d-flex.justify-content-center
+                img.mb-lg-0.mb-2.w-50( src="@/assets/curso/tema4/img20.svg")
               p.mb-0.text-center.d-xl-none <b>Localidades</b>
-          .col-lg-2.col-7
+          .col-xl-2.col-lg-6.col-7
             div.p-lg-2.p-0.mb-lg-0.mb-5
-              img.mb-lg-0.mb-2( src="@/assets/curso/tema4/img21.svg")
+              div.d-flex.justify-content-center
+                img.mb-lg-0.mb-2.w-50( src="@/assets/curso/tema4/img21.svg")
               p.mb-0.text-center.d-xl-none <b>Equipos y tecnología</b>
-        div.d-none.d-lg-block
+        div.d-none.d-xl-block
           .row.justify-content-center
             .col-lg-2
               div.p-lg-2.p-0.mb-lg-0.mb-3              
@@ -104,13 +109,24 @@
     #t_4_1.titulo-segundo.color-acento-contenido
       h2 4.1	Informes de gestión
 
+    .d-lg-none.d-block
+      br
+      br
+      br
+      br
+
     .row.justify-content-center.d-flex.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10.col-12
+        //- .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.position-relative
+        //-   .bloque-texto-g__img(
+        //-     :style="{'background-image':`url(${require('@/assets/curso/tema4/img23.png')})`}"  
+        //-   )
+        //-     .imagen-superior.position-absolute(style='bottom:0 ; left: 11.3% ; z-index: 0' ): img(src='@/assets/curso/tema4/img22.png' style='width: 300px')
+        //-   .bloque-texto-g__texto(style='width: 570px').d-flex.justify-content-center.align-items-center.p-5
+        //-     p.mb-0 Con el manejo de información preciso y eficiente se puede gestionar, adecuadamente, cada una de las actividades de la cadena logística, minimizar errores, ahorrar tiempo y dinero, optimizar las entregas y mejorar el servicio al cliente.  
         .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.position-relative(style="background-color: #ffeed6")
-          .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/tema4/img23.png')})`}"
-          )
-          //img.mb-0(src="@/assets/curso/tema4/img22.png")
+          .bloque-texto-g__img(:style="{'background-image': `url(${require('@/assets/curso/tema4/img23.png')})`}")
+            .imagen-superior.position-absolute(style='bottom:0 ; left: 17% ; z-index: 0' ): img.mb-0(style="width:330px" src="@/assets/curso/tema4/img22.png")
           .bloque-texto-g__texto.p-4
             p.mb-0 El informe de gestión es un documento mediante el cual se pueden presentar una serie de datos que demuestran los alcances, logros y, en sí, la gestión realizada por el departamento o grupo que lo elabora. Se debe plantear considerando los objetivos particulares de cada departamento y los objetivos misionales de la organización, porque deben estar alineados o articulados. En sí, toda la gestión realizada en una empresa deberá demostrar cómo es su aporte para el logro de los objetivos del empresario.              
             
@@ -256,21 +272,21 @@
               .TFoverlay.d-flex.align-items-top
                 .p-4.tarjetica1.w-100
                   h4.mb-4.text-center Datos de la empresa
-                  p.text-center Los básicos mínimos como NIT, nombre o razón social, contacto.
+                  p.text-center.contenidooculto Los básicos mínimos como NIT, nombre o razón social, contacto.
           .col-lg-4.col-md-9.col-12.d-flex
             .TFcontainer.mb-lg-0.mb-3.p-0
               img.TFimage(src='@/assets/curso/tema4/img13.png')
               .TFoverlay.d-flex.align-items-top
                 .p-4.tarjetica1.w-100
                   h4.mb-4.text-center Datos del empleado
-                  p.text-center Nombre, identificación, cargo en el que labora y tiempo de antigüedad en la organización.
+                  p.text-center.contenidooculto Nombre, identificación, cargo en el que labora y tiempo de antigüedad en la organización.
           .col-lg-4.col-md-9.col-12.d-flex
             .TFcontainer.mb-lg-0.mb-3.p-0
               img.TFimage(src='@/assets/curso/tema4/img14.png')
               .TFoverlay.d-flex.align-items-top
                 .p-4.tarjetica1.w-100
                   h4.mb-4.text-center Referencias
-                  p.text-center O convenciones de las letras o elementos que requieran descripción, rangos.
+                  p.text-center.contenidooculto O convenciones de las letras o elementos que requieran descripción, rangos.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12.col-12.px-lg-5.px-0
@@ -281,7 +297,7 @@
               .TFoverlay.d-flex.align-items-top
                 .p-4.tarjetica1.w-100
                   h4.mb-4.text-center Áreas para evaluar por separado
-                  p.text-center Personal, social y técnica. Cada una con sus competencias.
+                  p.text-center.contenidooculto Personal, social y técnica. Cada una con sus competencias.
           .col-lg-4.col-md-9.col-12.d-flex
             .TFcontainer.mb-lg-0.mb-3.p-0
               img.TFimage(src='@/assets/curso/tema4/img16.png')
@@ -289,7 +305,7 @@
                 .p-4.tarjetica1.w-100
                   h4.mb-4.text-center Datos del evaluador
                   div.d-flex.p-0.justify-content-center
-                    p.text-center Quien realiza la evaluación o la presenta.
+                    p.text-center.contenidooculto Quien realiza la evaluación o la presenta.
 
 
     p.mb-0 Se usan para validar los rendimientos del personal, la salud mental y su efecto en el clima organizacional; presenta los aspectos que el colaborador debe mejorar para optimizar su labor. Los directivos pueden tomar decisiones sobre el personal de contratación, reconocimientos, ascensos o retiros, basados en esos resultados.
