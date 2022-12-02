@@ -137,21 +137,21 @@
               img.TFimage(src='@/assets/curso/tema5/img11.png')
               .TFoverlay.d-flex.align-items-center
                 .p-3
-                  img.mb-4(style="width:102px" src='@/assets/curso/tema5/img16.svg')
+                  img.mb-4.d-none.d-sm-block.d-lg-none.d-xxl-block(style="width:102px" src='@/assets/curso/tema5/img16.svg')
                   p.mb-0 Importante la implementación de estrategias 5´s de orden y limpieza en el puesto de trabajo: Subordinar, clasificar y descartar; sistematizar y ordenar; sanear y limpiar; simplificar, estandarizar y volver coherente; sostener el proceso y disciplinar.  Con esto se mejoran los procesos y se comprometen todos los actores de la cadena de suministro, al tener claros los procesos, todo funciona sincrónicamente. 
           .col-lg-4.col-md-9.col-12.d-flex
             .TFcontainer.mb-lg-0.mb-3.p-0
               img.TFimage(src='@/assets/curso/tema5/img12.png')
               .TFoverlay.d-flex.align-items-center
                 .p-3
-                  img.mb-4(style="width:103px" src='@/assets/curso/tema5/img17.svg')
+                  img.mb-4.d-none.d-sm-block.d-lg-none.d-xxl-block(style="width:103px" src='@/assets/curso/tema5/img17.svg')
                   p.mb-0 Implementar, controlar y verificar los modelos de ruteo implementados para mejorar la administración de los recursos: humanos, equipos y espacios. 
           .col-lg-4.col-md-9.col-12.d-flex
             .TFcontainer.mb-lg-0.mb-3.p-0
               img.TFimage(src='@/assets/curso/tema5/img13.png')
               .TFoverlay.d-flex.align-items-center
                 .p-3
-                  img.mb-4(style="width:102px" src='@/assets/curso/tema5/img18.svg')
+                  img.mb-4.d-none.d-sm-block.d-lg-none.d-xxl-block(style="width:102px" src='@/assets/curso/tema5/img18.svg')
                   p.mb-0 Seguimiento de calidad a los procesos: diligenciamiento, control y verificación del cumplimiento en cada proceso, mediante los formatos e implementación de herramientas que faciliten su diligenciamiento.
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
@@ -162,14 +162,14 @@
               img.TFimage(src='@/assets/curso/tema5/img14.png')
               .TFoverlay.d-flex.align-items-center
                 .p-3
-                  img.mb-4(style="width:102px" src='@/assets/curso/tema5/img19.svg')
+                  img.mb-4.d-none.d-sm-block.d-lg-none.d-xxl-block(style="width:102px" src='@/assets/curso/tema5/img19.svg')
                   p.mb-0 Implementación de procesos de simulación que permitan comprobar las acciones de mejora que se proyecta implementar.  
           .col-lg-4.col-md-9.col-12.d-flex
             .TFcontainer.mb-lg-0.mb-3.p-0
               img.TFimage(src='@/assets/curso/tema5/img15.png')
               .TFoverlay.d-flex.align-items-center
                 .p-3
-                  img.mb-4(style="width:102px" src='@/assets/curso/tema5/img20.svg')
+                  img.mb-4.d-none.d-sm-block.d-lg-none.d-xxl-block(style="width:102px" src='@/assets/curso/tema5/img20.svg')
                   p.mb-0 Implementar metodologías de clasificación de inventarios y políticas de almacenamiento, para reducir costos y tiempo, como “<i>Lay out</i>”: es un esquema que resume y señala la distribución y forma de los elementos dentro de una propuesta.
 
 

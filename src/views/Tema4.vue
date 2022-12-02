@@ -236,6 +236,8 @@
     
     p.mb-4 De acuerdo con estos elementos, se clasifican en:
 
+    .titulo-sexto.color-acento-contenido(data-aos="fade-left")
+      p.titulo <b>Tabla 4.</b> <i>Hallazgos y forma de solucionarlos</i>
     .tabla-b.color-acento-contenido.mb-5(data-aos="fade-left")        
       table
         tr
