@@ -53,12 +53,12 @@
                 p.mb-4 Accidente de un transporte de mercancías peligrosas.
                 .row.justify-content-center.align-items-center.mb-0
                   .col-lg-10.col-12
-                    a.anexo.mb-0(href="https://www.youtube.com/watch?v=1UPIzChf0Xw" target="_blank")
+                    a.anexo.mb-0(href="https://www.youtube.com/watch?v=ih0PCGegAWE" target="_blank")
                       .anexo__icono
                         img(src="@/assets/template/icono-link.svg")
                       .anexo__texto
                         p(style="font-size:14px") <b>Enlace web.</b> 
-                        p.mb-0(style="font-size:14px") https://www.youtube.com/watch?v=1UPIzChf0Xw
+                        p.mb-0(style="font-size:14px") https://www.youtube.com/watch?v=ih0PCGegAWE
             p.mb-0.text-end(style="font-size:13px") Fuente: RT en Español (2018).
 
     .row.justify-content-center.d-flex.align-items-center.mb-5(data-aos="fade-right")

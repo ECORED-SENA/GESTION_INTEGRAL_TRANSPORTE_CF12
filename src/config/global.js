@@ -197,11 +197,11 @@ export default {
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
       },
-      // {
-      //   icono: 'fas fa-download',
-      //   titulo: 'Descargar material',
-      //   download: 'downloads/material.zip',
-      // },
+      {
+        icono: 'fas fa-download',
+        titulo: 'Descargar material',
+        download: 'downloads/material.zip',
+      },
       {
         icono: 'far fa-registered',
         titulo: 'Créditos',
@@ -265,7 +265,7 @@ export default {
     {
       referencia:
         'RT en Español. (2018, agosto 6). FUERTES IMÁGENES: Momento exacto de la enorme explosión en Bolonia [Video]. YouTube.',
-      link: 'https://youtu.be/1UPIzChf0Xw',
+      link: 'https://www.youtube.com/watch?v=ih0PCGegAWE',
     },
     {
       referencia:
