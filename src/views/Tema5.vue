@@ -86,7 +86,38 @@
 
     img.mb-4(src="@/assets/curso/tema5/img04.png" data-aos="fade-right")
 
-    p.mb-0 En gran medida, los costos de operación de los vehículos se ven incrementados a causa de varios aspectos que deben ser cuidadosamente controlados por el área encargada de la operación, y se relacionan con:
+    p.mb-5 En gran medida, los costos de operación de los vehículos se ven incrementados a causa de varios aspectos que deben ser cuidadosamente controlados por el área encargada de la operación, y se relacionan con:
+
+    .fondo1.mb-0.p-3(data-aos="fade-left")
+      SlyderA.mb-0(tipo="b")
+        .row.justify-content-center.align-items-top.p-4
+          .col-lg-5
+            h4.mb-4 Maniobrabilidad En Geografía Colombiana
+            p.mb-lg-0.mb-3 Es indispensable contar con operadores capaces en maniobrar adecuadamente los vehículos, empleando técnicas de conducción adecuadas, de acuerdo con la tecnología de los mismos. Acción: entrenamiento y capacitación del personal a través de simulación y prácticas en vía.
+          .col-lg-7
+            img.mb-lg-0.mb-3(src="@/assets/curso/tema5/img27.png")
+
+        .row.justify-content-center.align-items-top.p-4
+          .col-lg-5
+            h4.mb-4 Mantenimiento Adecuado De Los Vehículos
+            p.mb-lg-0.mb-3 Este aspecto se incluye dentro del pilar “vehículo seguro” del PESV, se busca que, a través de la programación y ejecución de mantenimientos preventivos y predictivos, se garantice la seguridad para el conductor y los usuarios. Dentro de este aspecto, se incluye todo el procedimiento de chequeos preoperacionales del vehículo, donde juega un papel importante el operador, quien alista su vehículo y valida que es competente para entrar en operación. Acciones: implementación de puntos de control sobre la operación, verificación de procedimientos y ejecución del PESV.
+          .col-lg-7
+            img.mb-lg-0.mb-3(src="@/assets/curso/tema5/img28.png")
+
+        .row.justify-content-center.align-items-top.p-4
+          .col-lg-5
+            h4.mb-4 Respeto Por Tolerancias Y Pesos Del Vehículo
+            p.mb-lg-0.mb-3 Es indispensable controlar los pesos de los vehículos y las tolerancias de los fabricantes, ya que forzar a los vehículos y equipos a maniobrar con cargas elevadas deteriora sus condiciones de operación e incrementa la inversión en repuestos mecánicos y consumos de líquidos hidráulicos y combustibles.
+          .col-lg-7
+            img.mb-lg-0.mb-3(src="@/assets/curso/tema5/img29.png")
+
+        .row.justify-content-center.align-items-top.p-4
+          .col-lg-5
+            h4.mb-4 Elaboración Adecuada De Rutogramas
+            p.mb-lg-0.mb-3 Planear las rutas está relacionado con la prevención de situaciones que pongan en riesgo la carga. Acciones: revisión y simulación de rutas.
+          .col-lg-7
+            img.mb-lg-0.mb-3(src="@/assets/curso/tema5/img30.png")
+      
 
     Separador
     #t_5_3.titulo-segundo.color-acento-contenido
